@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tito_chatui/models/message_model.dart';
 import 'package:tito_chatui/shared/constants.dart';
 import 'package:tito_chatui/widgets/favourite_contact.dart';
 
